@@ -15,6 +15,8 @@
   $port = "9900";  
   $userId = "demoDelivery"; 
   $userSecret = "PI1yFaKFCGvvJKi";
+$userSecret = "zxczz";
+$userSecret = "asdasd";
 ?>
 
 <!doctype html>
